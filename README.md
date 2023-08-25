@@ -12,10 +12,16 @@ git remote add <имя для репозитория> <url-адрес репоз
 ```
 git pull
 ```
-```
+```c#
 for int(i=0; i<10; i++)
 {
      console.writeLine(i*i)
 }
 ```
-
+```
+```c#
+while(n<0)
+{
+n++;
+}
+```
